@@ -1,0 +1,21 @@
+#setting-error-tgmpa,
+.wp-switch-editor.switch-tmce,
+.simple_update_temp_data { display: none; }
+.simple_update_temp_vars li {
+    list-style: none;
+    border-bottom: 1px solid green;
+}
+.simple_update_temp_vars input {
+	border: 0;
+    background: #B7E4F4;
+    width: 77%;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+.simple_update_temp_vars label {
+    width: 20%;
+    text-align: right;
+    display: inline-block;
+    padding-right: 2%;
+    font-weight: bold;
+}
